@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Springboot1Application {
+public class EurekaServerApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Springboot1Application.class, args);
+        SpringApplication.run(EurekaServerApplication.class, args);
     }
 
 }
